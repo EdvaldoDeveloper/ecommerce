@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\iscode\\php-classes\\src"
+            "IScode\\": "vendor\\iscode\\php-classes\\src"
         }
     }
 }
